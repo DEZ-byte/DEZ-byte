@@ -20,7 +20,7 @@
 
 ## About Me
 
-- :telescope: Currently working on **AI/ML applications** and **data engineering pipelines**
+- :telescope: Currently working on **ML/AI applications** and **data engineering pipelines**
 - :seedling: Exploring **Deep Learning**, **LLMs**, and **MLOps**
 - :people_holding_hands: Open to collaborating on **open source ML projects** and **full stack apps**
 - :brain: Passionate about turning raw data into production-ready intelligent systems
@@ -82,9 +82,6 @@
 ## GitHub Stats
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=DEZ-byte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEZ-byte&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=58A6FF&text_color=c9d1d9" alt="Top Languages" />
 
 <br/>
 
