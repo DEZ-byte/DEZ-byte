@@ -22,11 +22,6 @@
 ## About Me
 
 ```yaml
-name: Anirudh Raj Sharma
-role: ML Engineer & Full Stack Developer
-location: Always Online
-currently_building: Intelligent systems that solve real problems
-philosophy: "If it breaks, I iterate faster."
 ```
 
 - :telescope: Currently working on **ML/AI applications** and **data engineering pipelines**
