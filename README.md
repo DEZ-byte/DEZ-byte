@@ -21,9 +21,6 @@
 
 ## About Me
 
-```yaml
-```
-
 - :telescope: Currently working on **ML/AI applications** and **data engineering pipelines**
 - :seedling: Exploring **Deep Learning**, **LLMs**, and **MLOps**
 - :people_holding_hands: Open to collaborating on **open source ML projects** and **full stack apps**
