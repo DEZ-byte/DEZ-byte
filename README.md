@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hi+There!+%F0%9F%91%8B+I'm+Anirudh+Raj+Sharma;ML+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems+%F0%9F%9A%80;Turning+Data+Into+Impact+%F0%9F%93%8A" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=700&height=100&lines=Hi+There!+%F0%9F%91%8B+I'm+Anirudh+Raj+Sharma;ML+Engineer+%7C+Full+Stack+Developer;" alt="Typing SVG" /></a>
 
 <br/>
 
