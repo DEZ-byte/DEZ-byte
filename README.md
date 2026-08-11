@@ -102,7 +102,7 @@
 *Always open to interesting conversations, collaborations, and new opportunities.*
 
 <a href="mailto:rajsharmaanirudh@gmail.com"><img src="https://img.shields.io/badge/Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/anirudh-raj-sharma/"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/anirudh-raj-sharma01/"><img src="https://img.shields.io/badge/Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
