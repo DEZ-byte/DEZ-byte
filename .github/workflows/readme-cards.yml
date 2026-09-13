@@ -1,0 +1,51 @@
+name: README-Stat-Cards
+
+on:
+  # Runs right after the 3D contribution graph workflow finishes, so the two never push at the same time
+  workflow_run:
+    workflows: ["GitHub-Profile-3D-Contrib"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-readme-stat-cards
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+        with:
+          ref: main
+
+      - name: Generate Stats Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=DEZ-byte&show_icons=true&theme=tokyonight&hide_border=false
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Generate Top Languages Card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=DEZ-byte&layout=compact&theme=tokyonight&hide_border=false
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Commit and Push Generated Cards
+        run: |
+          git config user.name "DEZ-byte"
+          git config user.email "DEZ-byte@users.noreply.github.com"
+          git add profile/stats.svg profile/top-langs.svg
+          if git commit -m "chore: regenerate readme stat cards [skip ci]" --no-trailer; then
+            git pull --rebase origin main
+            git push
+          else
+            echo "No changes in stat cards detected."
+          fi

@@ -79,18 +79,21 @@
 
 ---
 
-## GitHub Stats
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="DEZ-byte's 3D Contribution Graph" width="100%">
+</div>
 
-<br/>
+<br>
 
-<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=DEZ-byte&theme=tokyonight&hide_border=true&background=1a1b27&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak" />
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=DEZ-byte&bg_color=1a1b27&color=58A6FF&line=58A6FF&point=FF6B6B&area=true&area_color=58A6FF&hide_border=true" alt="Contribution Graph" />
-
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./profile/stats.svg" alt="DEZ-byte's GitHub Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="./profile/top-langs.svg" alt="Most Used Languages" />
+  </a>
 </div>
 
 ---
