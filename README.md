@@ -8,11 +8,11 @@
 <!-- Social Badges -->
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajsharmaanirudh@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anirudh-raj-sharma01/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dez-byte.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://anirudhraj-sharma.github.io/portfolio/)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=DEZ-byte&style=flat-square&color=58A6FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=anirudhraj-sharma&style=flat-square&color=58A6FF" alt="Profile Views"/>
 
 </div>
 
@@ -82,14 +82,14 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="./profile-3d-contrib/profile-night-green.svg" alt="DEZ-byte's 3D Contribution Graph" width="100%">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="Anirudh Raj Sharma's 3D Contribution Graph" width="100%">
 </div>
 
 <br>
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="./profile/stats.svg" alt="DEZ-byte's GitHub Stats" />
+    <img src="./profile/stats.svg" alt="Anirudh Raj Sharma's GitHub Stats" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="./profile/top-langs.svg" alt="Most Used Languages" />
